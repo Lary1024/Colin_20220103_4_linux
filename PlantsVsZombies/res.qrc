@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.bmp</file>
+        <file>res/game_menu.png</file>
+        <file>res/SelectPaint.bmp</file>
+        <file>res/planttable.png</file>
+        <file>res/Chomper.png</file>
+        <file>res/DoublePeaShooter.png</file>
+        <file>res/IcePeaShooter.png</file>
+        <file>res/Jalapeno .png</file>
+        <file>res/SunFlower.png</file>
+        <file>res/WallNut.png</file>
+        <file>res/Squash.png</file>
+        <file>res/shovel.png</file>
+        <file>res/StartSet.png</file>
+        <file>res/StartPlant.png</file>
+        <file>res/StartReady.png</file>
+        <file>res/Peashooter.gif</file>
+        <file>res/ZombieBasic.gif</file>
+        <file>res/Sun.gif</file>
+        <file>res/Sun2.png</file>
+        <file>res/SunFlower.gif</file>
+        <file>res/TallNut.gif</file>
+        <file>res/Chomper.gif</file>
+        <file>res/PeaShooter.png</file>
+        <file>res/Wallnut_body.png</file>
+        <file>res/WallNut.gif</file>
+        <file>res/peashooter_prepare.bmp</file>
+        <file>res/sunflower_prepare.bmp</file>
+        <file>res/wallnut_prepare.bmp</file>
+        <file>res/Pea.gif</file>
+        <file>res/PeaBoom.png</file>
+        <file>res/ZombieBasicDie.gif</file>
+        <file>res/ZombieBasicEat.gif</file>
+    </qresource>
+</RCC>
